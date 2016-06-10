@@ -14,7 +14,7 @@ import time
 HOST = "irc.chat.twitch.tv"
 NICK = "bonanarama"
 PORT = 6667
-PASS = "oauth:vggeguoqunv3gpokwccip82918v42d"
+PASS = "oauth:OAUTH_KEY"
 readbuffer = ""
 MODT = False
 pingNum = 0
